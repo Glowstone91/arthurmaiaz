@@ -1,4 +1,4 @@
-# Arthur Maia
+# Arthur Maia.
 
 **`Desenvolvedor Backend`**
 
